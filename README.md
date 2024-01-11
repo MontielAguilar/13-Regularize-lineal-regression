@@ -42,9 +42,4 @@ Este proyecto se enfoca en el análisis de un conjunto de datos demográficos y 
 
 Este proyecto puede ser utilizado para realizar análisis exploratorios y estudios detallados sobre la relación entre la demografía, la salud y otros factores en los condados de Estados Unidos.
 
-## Requisitos del Proyecto
 
-Para ejecutar análisis y visualizaciones, se recomienda tener instaladas las siguientes bibliotecas de Python:
-
-```bash
-pip install pandas matplotlib seaborn
