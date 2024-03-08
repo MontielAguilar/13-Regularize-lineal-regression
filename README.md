@@ -1,4 +1,4 @@
-# Regularize Lineal Regression
+# Regularize Lineal Regression.
 
 # Análisis de Datos Demográficos y de Salud por Condado
 
